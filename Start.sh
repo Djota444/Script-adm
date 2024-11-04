@@ -10,4 +10,4 @@ done
 echo ""  # Nova linha após a tela de carregamento
 
 # Executa o script Python
-python3 meu_script.py
+python3 Sendsms.py
